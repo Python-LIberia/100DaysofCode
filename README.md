@@ -8,7 +8,9 @@ My 100 Days of Code Challenge
 
 
 ## Daily Log
-**Day 1:** Learned about data types, classes, as well as python keywords and the importance of good variable names.
+**Day 1:** 
+
+Started Udemy course 'Complete Python Developer: Zero to Mastery'. Learned about data types, classes, as well as python keywords and the importance of good variable names.
 
 Day 2: 
 
